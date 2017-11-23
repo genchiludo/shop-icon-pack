@@ -1,0 +1,132 @@
+@font-face {
+  font-family: "shop-icon";
+  src: url('../fonts/shop-icon.eot');
+  src: url('../fonts/shop-icon.eot?#iefix') format('eot'),
+    url('../fonts/shop-icon.woff2') format('woff2'),
+    url('../fonts/shop-icon.woff') format('woff'),
+    url('../fonts/shop-icon.ttf') format('truetype'),
+    url('../fonts/shop-icon.svg#shop-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.shop-icon:before {
+  display: inline-block;
+  font-family: "shop-icon";
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.shop-icon-lg {
+  font-size: 1.3333333333333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+.shop-icon-2x { font-size: 2em; }
+.shop-icon-3x { font-size: 3em; }
+.shop-icon-4x { font-size: 4em; }
+.shop-icon-5x { font-size: 5em; }
+.shop-icon-fw {
+  width: 1.2857142857142858em;
+  text-align: center;
+}
+
+.shop-icon-bag-black-fashion-model:before { content: "\" }
+.shop-icon-bag-for-shopping-1:before { content: "\" }
+.shop-icon-bag-for-shopping-in-black-shape:before { content: "\" }
+.shop-icon-bag-for-shopping:before { content: "\" }
+.shop-icon-bag-of-black-female-design:before { content: "\" }
+.shop-icon-bag-outline-1:before { content: "\" }
+.shop-icon-bag-outline:before { content: "\" }
+.shop-icon-basket-for-shopping-of-two-handles:before { content: "\" }
+.shop-icon-basket-for-shopping:before { content: "\" }
+.shop-icon-basket-of-rounded-circular-base-shape:before { content: "\" }
+.shop-icon-basket-with-one-handle:before { content: "\" }
+.shop-icon-basket:before { content: "\" }
+.shop-icon-bill-of-1-dollar:before { content: "\" }
+.shop-icon-black-shopping-cart:before { content: "\" }
+.shop-icon-coin-money-in-stack:before { content: "\" }
+.shop-icon-coin-of-dollar-1:before { content: "\" }
+.shop-icon-coin-of-dollar:before { content: "\" }
+.shop-icon-coins-money-stack-1:before { content: "\" }
+.shop-icon-coins-money-stack:before { content: "\" }
+.shop-icon-coins-of-dollars-stack:before { content: "\" }
+.shop-icon-coins-stacks-money:before { content: "\" }
+.shop-icon-credit-card-back-1:before { content: "\" }
+.shop-icon-credit-card-back-2:before { content: "\" }
+.shop-icon-credit-card-back-symbol:before { content: "\" }
+.shop-icon-credit-card-back:before { content: "\" }
+.shop-icon-credit-card-front:before { content: "\" }
+.shop-icon-credit-card-lock-symbol:before { content: "\" }
+.shop-icon-credit-card-remove-symbol-with-a-cross-for-interface:before { content: "\" }
+.shop-icon-credit-card-with-a-flag:before { content: "\" }
+.shop-icon-credit-card-with-check-symbol:before { content: "\" }
+.shop-icon-credit-card-with-minus-sign:before { content: "\" }
+.shop-icon-credit-card-with-plus-sign:before { content: "\" }
+.shop-icon-credit-cards-couple:before { content: "\" }
+.shop-icon-credit-or-debit-card-front:before { content: "\" }
+.shop-icon-dollar-coin-money:before { content: "\" }
+.shop-icon-money-bag-and-coins:before { content: "\" }
+.shop-icon-money-bag-black-shape:before { content: "\" }
+.shop-icon-money-bag-black-variant-symbol:before { content: "\" }
+.shop-icon-money-bag-outline:before { content: "\" }
+.shop-icon-money-bag-protection:before { content: "\" }
+.shop-icon-money-bag-with-dollar-sign:before { content: "\" }
+.shop-icon-money-bags:before { content: "\" }
+.shop-icon-money-bill:before { content: "\" }
+.shop-icon-money-bills-and-coins-stack:before { content: "\" }
+.shop-icon-money-bills-stack-1:before { content: "\" }
+.shop-icon-money-bills-stack:before { content: "\" }
+.shop-icon-money-black-bag-with-dollar-sign:before { content: "\" }
+.shop-icon-money-coin-of-dollar:before { content: "\" }
+.shop-icon-money-coins-and-bill:before { content: "\" }
+.shop-icon-money-paper-bills:before { content: "\" }
+.shop-icon-money-paper-of-dollars:before { content: "\" }
+.shop-icon-money-stacked-coins:before { content: "\" }
+.shop-icon-printed-paper:before { content: "\" }
+.shop-icon-receipt-1:before { content: "\" }
+.shop-icon-receipt-2:before { content: "\" }
+.shop-icon-receipt-black-variant:before { content: "\" }
+.shop-icon-receipt-paper-1:before { content: "\" }
+.shop-icon-receipt-paper-2:before { content: "\" }
+.shop-icon-receipt-paper-outline-shape-variant:before { content: "\" }
+.shop-icon-receipt-paper:before { content: "\" }
+.shop-icon-receipt:before { content: "\" }
+.shop-icon-shop-1:before { content: "\" }
+.shop-icon-shop-building:before { content: "\" }
+.shop-icon-shop-store-frontal-building:before { content: "\" }
+.shop-icon-shop:before { content: "\" }
+.shop-icon-shopping-bag-check-symbol:before { content: "\" }
+.shop-icon-shopping-bag-outline-with-plus-symbol:before { content: "\" }
+.shop-icon-shopping-bag-outline:before { content: "\" }
+.shop-icon-shopping-bag-remove-interface-symbol:before { content: "\" }
+.shop-icon-shopping-bag-side-view:before { content: "\" }
+.shop-icon-shopping-bag-with-a-flag:before { content: "\" }
+.shop-icon-shopping-bag-with-minus-sign:before { content: "\" }
+.shop-icon-shopping-bag-with-security:before { content: "\" }
+.shop-icon-shopping-basket-1:before { content: "\" }
+.shop-icon-shopping-basket-of-one-handle:before { content: "\" }
+.shop-icon-shopping-basket-with-two-handles-from-side-view:before { content: "\" }
+.shop-icon-shopping-basket-with-two-handles:before { content: "\" }
+.shop-icon-shopping-basket:before { content: "\" }
+.shop-icon-shopping-black-bag:before { content: "\" }
+.shop-icon-shopping-cart-1:before { content: "\" }
+.shop-icon-shopping-cart-2:before { content: "\" }
+.shop-icon-shopping-cart-add-button:before { content: "\" }
+.shop-icon-shopping-cart-black-variant:before { content: "\" }
+.shop-icon-shopping-cart-cancel-button:before { content: "\" }
+.shop-icon-shopping-cart-empty-symbol:before { content: "\" }
+.shop-icon-shopping-cart-empty-tool:before { content: "\" }
+.shop-icon-shopping-cart-of-gross-outline:before { content: "\" }
+.shop-icon-shopping-cart-outline:before { content: "\" }
+.shop-icon-shopping-cart-symbol-for-e-commerce:before { content: "\" }
+.shop-icon-shopping-cart-verified-symbol:before { content: "\" }
+.shop-icon-shopping-cart-with-an-arrow:before { content: "\" }
+.shop-icon-shopping-cart-with-an-up-arrow:before { content: "\" }
+.shop-icon-shopping-cart-with-horizontal-lines-design:before { content: "\" }
+.shop-icon-shopping-cart-with-minus-sign:before { content: "\" }
+.shop-icon-shopping-cart:before { content: "\" }
+.shop-icon-store:before { content: "\" }
